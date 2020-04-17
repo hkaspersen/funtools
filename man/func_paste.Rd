@@ -15,5 +15,5 @@ func_paste(x, collapse = ",")
 Paste together unique values in a column, and collapse with specified symbol.
 }
 \author{
-Håkon Kaspersen, \email{hakon.kaspersen@vetinst.no}
+Håkon Kaspersen, \email{hakon.kaspersen@protonmail.com}
 }

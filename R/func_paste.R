@@ -5,7 +5,7 @@
 #' @param x The column holding the vaues
 #' @param collapse Delimiter between the unique values, default ","
 #'
-#' @author Håkon Kaspersen, \email{hakon.kaspersen@@vetinst.no}
+#' @author Håkon Kaspersen, \email{hakon.kaspersen@@protonmail.com}
 #'
 #' @export
 #'
