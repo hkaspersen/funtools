@@ -1,11 +1,11 @@
 Package: funtools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A bundle of small, nifty functions for many purposes
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Håkon Kaspersen
+Maintainer: Håkon Kaspersen <hakon.kaspersen@protonmail.com>
+Description: The package includes functions for smaller and bigger operations, used regularly
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.0.2
